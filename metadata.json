@@ -1,0 +1,6 @@
+{
+  "name": "BazarBangla - বাংলাদেশের পণ্য ও বাজারদর",
+  "description": "Discover products and market prices across Bangladesh in one place. বাংলাদেশের জেলা ও উপজেলার নিত্যপ্রয়োজনীয় পণ্যের পাইকারি ও খুচরা বাজারদর এবং কমিউনিটি প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
